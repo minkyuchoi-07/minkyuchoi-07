@@ -15,7 +15,7 @@ Minkyu Choi is a seasoned Artificial Intelligence and Machine Learning professio
 * AI and Human Interaction
 * Simulation-to-Simulation(Sim2Sim) & Simulation-to-Real(Sim2Real) Transfer Learning
 
-[Personal Website](https://minkyuchoi-07.github.io/about/): https://minkyuchoi-07.github.io/about/
+[Personal Website](https://minkyuchoi-07.github.io/about/)
 
 <!--
 **minkyuchoi-07/minkyuchoi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
